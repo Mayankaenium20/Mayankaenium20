@@ -1,7 +1,7 @@
 ### Hey there! 😎✌
 
 - 🔭 I’m currently working on Data Structure and Algorithms.
-- 🌱 I’m currently learning AI/ML.
+- 🌱 Exploring the world of AI! 
 - 👯 I’m looking to collaborate on open source software/application.
 - 🤔 I’m looking for help with CNN.
 - 💬 Ask me about programming, tech, and aviation. 💻👨‍✈️✈
