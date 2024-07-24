@@ -19,11 +19,9 @@
 
 - 🤝 I’m looking for help with **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mayankaenium20](https://github.com/Mayankaenium20)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Mayankaenium20)
 
 - 💬 Ask me about **Aviation and Deep Learning**
-
-- 📄 Know about my experiences [www.linkedin.com/in/mayankb20](www.linkedin.com/in/mayankb20)
 
 - ⚡ Fun fact **"If you use your head, you won't get fat even if you only eat sweets." - L Lawliet**
 
@@ -108,5 +106,5 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mayankb20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mayankb20" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayankb20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
